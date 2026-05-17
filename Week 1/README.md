@@ -195,7 +195,7 @@ sudo apt install iverilog gtkwave
 brew install icarus-verilog gtkwave
 
 # Compile and simulate
-iverilog tutorial1_with_testbench.v
+iverilog mux_with_testbench.v
 vvp a.out
 
 # View waveforms

@@ -195,8 +195,10 @@ https://www.youtube.com/@hardwaremodelingusingveril2747/videos
 
 **Intel Quartus installation**
 *Alternative for **only** windows users!
-It is a different tool for verilog simulations.
-https://drive.google.com/file/d/1vIsU0gQ6SDXaeZb7p1pX1rfC_uqRzzdY/view
+It is a different tool for Verilog simulations.
+Also, install version **18.1** if any elec people are going to install it
+That's the version that they told us to install, and it mostly will be the same in the next sem.
+https://drive.google.com/file/d/1vIsU0gQ6SDXaeZb7p1pX1rfC_uqRzzdY/view 
 https://drive.google.com/file/d/1OIKWrYMkiYr5jgqyjTwuSZENV5hBw5pz/view
 
 ```bash

@@ -1,0 +1,10 @@
+module regfile(
+    input        clk,
+    input        we,          // write enable
+    input  [1:0] raddr0,      // read port 0 address (selects A/B/C/D)
+    input  [1:0] raddr1,      // read port 1 address
+    input  [1:0] waddr,       // write address
+    input  [7:0] wdata,       // data to write
+    output [7:0] rdata0,      // read port 0 output
+    output [7:0] rdata1       // read port 1 output
+);
